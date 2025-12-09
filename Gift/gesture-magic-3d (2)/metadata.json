@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Magic 3D",
+  "description": "A cinematic 3D particle system controlled by hand gestures using WebGL and Computer Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
